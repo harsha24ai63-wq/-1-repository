@@ -1,0 +1,8 @@
+//print 1 to 5 using for loop
+public class printnumbers {
+ public static void main(String[] args) {
+ for (int i = 1; i<=5; i++) {
+  system.out.println(i);
+      }
+   }
+}
